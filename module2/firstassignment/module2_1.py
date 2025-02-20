@@ -1,0 +1,1 @@
+print('This is Module2, first assignment.')
